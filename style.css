@@ -1,0 +1,20 @@
+body{
+  background-color: #EEE6CE;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: brown;
+border-width: 2px;
+
+}
+h1
+{
+  color: #B8405E;
+}
+h3{color: #D67D3E;}
+/* now i am using a class selector */
+.Sumit {
+  background-color:  #EEE6CE;
+  /*of course the colour is same as background so no change will appear afterall its an example he he*/
+}
